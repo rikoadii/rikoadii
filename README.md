@@ -2,7 +2,7 @@
 <h3 align="center">A FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikoadii&label=Profile%20views&color=0e75b6&style=flat" alt="rikoadii" /> </p>
-<img align="right" alt="Coding" width="400" height="400" src="93891269.png">
+<img align="right" alt="Coding" width="250" height="250" src="93891269.png">
 
 - 🌱 I’m currently learning **Flutter & Laravel**
 
