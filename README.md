@@ -2,8 +2,7 @@
 <h3 align="center">A FullStack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rikoadii&label=Profile%20views&color=0e75b6&style=flat" alt="rikoadii" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rikoadii" alt="rikoadii" /></a> </p>
+<img align="right" alt="Coding" width="250" height="400" src="byu.jpg">
 
 - 🌱 I’m currently learning **Flutter & Laravel**
 
